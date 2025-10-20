@@ -1,0 +1,27 @@
+{
+  "name": "immutadeep",
+  "version": "1.0.0",
+  "description": "A lightweight micro-utility (less than 1KB) for deep, immutable updates in JavaScript objects and arrays using simple dot notation.",
+  "main": "immuta-deep.js",
+  "module": "immuta-deep.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YourUsername/immutadeep.git"
+  },
+  "keywords": [
+    "immutable",
+    "update",
+    "deep",
+    "state",
+    "utility",
+    "react",
+    "redux",
+    "functional"
+  ],
+  "author": "Akshaya Selvakumar",
+  "license": "MIT"
+}
